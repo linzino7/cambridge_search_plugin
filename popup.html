@@ -1,0 +1,61 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>cambridge_search_plugin</title>
+    <style type="text/css">
+      body {
+        margin: 10px;
+        min-width: 220px;
+      }
+
+      h1 {
+        font-size: 15px;
+      }
+
+      #container {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+      }
+      .c_img{
+        text-align: center;
+      }
+      img{
+        display:block; 
+        margin:auto;
+      }
+      .word{
+        text-align: justify;
+      }
+      .title{
+        color: red;
+      }
+
+    </style>
+    <script src="popup.js"></script>
+  </head>
+
+  <body>
+    <h1>Cambridge Search Plugin</h1>
+    <div id = "c_img">
+      <img src="icon_128.png">
+     </div>
+    <div>
+      <p class="word">
+          本套件只要在網頁上，選取任何文字右鍵點選cambridge_search。就可以自動於cambridge搜尋單字解釋。
+      </p>
+    </div>
+    <div id="container">
+      <span class="title" >設定搜尋語言</span>
+      <select  id="dropdown">
+        <option value="traditional_chinese">Traditional Chinese</option>
+        <option value="english">English</option>
+      </select>
+    </div>
+    <p>Coding by Zino.</p>
+    <p>Github<p>
+    <p>Icons made by Vectors Market from flaticon.</p>
+  </body>
+</html>
