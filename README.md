@@ -16,7 +16,7 @@ Cambridge Search 是一個在google chrome上的一個擴充套件。
 就可以設定搜尋時的語言。
 
 ## 展示影片
-[![](https://i.imgur.com/Bl02HYd.png)](http://www.youtube.com/watch?v=fdrJ2XeRm1E "")
+[![](https://lh3.googleusercontent.com/T600vrTcA2hxbFuIKKb23n_6M8BLm50iUjMdSt9vvhu7Z8zSZ6QU2PYNr5EvtN5Jx1WrdJn3Tg=w640-h400-e365)](http://www.youtube.com/watch?v=fdrJ2XeRm1E "")
 
 ## 聲明
 Icons made by Vectors Market from flaticon.
