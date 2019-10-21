@@ -20,3 +20,7 @@ Cambridge Search 是一個在google chrome上的一個擴充套件。
 
 ## 聲明
 Icons made by Vectors Market from flaticon.
+
+## LICENSE
+Apache License 2.0
+See more in LICENSE File.
