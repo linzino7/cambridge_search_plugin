@@ -74,13 +74,14 @@ document.addEventListener('DOMContentLoaded', () => {
           console.log('Value is set to ' + dropdown.value);
         });
       }
-      
     });
+    
 
+    var github = document.getElementById('github');
+    
+    github.addEventListener('click', () => {
+      window.open("https://github.com/linzion/cambridge_search_plugin", "dictWindow");
+    });
+    
   });
 });
-
-
-
-
-

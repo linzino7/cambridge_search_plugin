@@ -11,7 +11,11 @@ function openlink(keyword,url) {
     //合併成搜尋連結
     var url =  url + re_word;
     // 開啟新視窗
-    window.open(url, "dictWindow");
+    window.open(url, "dictWindow"+getRandomInt(1000));
+}
+
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
 }
 
 
